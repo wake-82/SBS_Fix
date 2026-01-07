@@ -1,4 +1,6 @@
-# Overview / 개요
+# SBS Fix
+
+## Overview / 개요
 
 SBS Fix is a free, privately developed freeware tool designed for simple editing of Full SBS videos. SBS Fix는 개인이 제작한 무료 프리웨어로, Full SBS 영상을 간단하게 편집하는 도구입니다. 본 프로그램은 비상업적 용도에 한해 무료로 사용 가능합니다.
 
