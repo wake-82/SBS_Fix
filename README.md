@@ -55,4 +55,4 @@ This software is provided "AS IS", without warranty of any kind. The author assu
 
 Commercial use, resale, or paid distribution is strictly prohibited.
 
-상업적 사용, 재판매, 유료 배포는 엄격히 금지됩니다.
+상업적 사용, 재판매, 유료 배포는 엄격히 금지됩니다..
