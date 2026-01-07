@@ -1,0 +1,57 @@
+### Python ###
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+### PyInstaller (빌드 관련) ###
+# exe 빌드 시 생성되는 임시 파일과 결과물 폴더를 제외합니다.
+build/
+dist/
+*.spec
+
+### 가상환경 (Virtual Environments) ###
+venv/
+.venv/
+env/
+.env/
+bin/
+Include/
+Lib/
+Scripts/
+pyvenv.cfg
+
+### 설정 및 데이터 파일 (SBS Fix 프로젝트 관련) ###
+# 프로그램 실행 시 생성되는 로그나 설정파일이 공용 저장소에 올라가지 않게 합니다.
+settings.json
+*.log
+
+### OS & IDE ###
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+### 미디어 파일 (테스트용) ###
+# 용량이 큰 영상 파일들이 실수로 올라가는 것을 방지합니다.
+*.mp4
+*.mkv
+*.avi
+*.mov
